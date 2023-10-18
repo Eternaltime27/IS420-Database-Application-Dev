@@ -1,6 +1,7 @@
-/* Team Name: Team 9
-/* Team Member Names: Paul Ryu(M3), Andy Lo(M1), Ayu Fantaw(M2), Sangita Rana(M4), Zoiya Aman(M5) 
+/* Team Name: Team 9 */
+/* Team Member Names: Paul Ryu(M3), Andy Lo(M1), Ayu Fantaw(M2), Sangita Rana(M4), Zoiya Aman(M5) */
 /* Drop all IS420 Lab Assignment Tables */
+/*
 DROP TABLE ORDERS;
 Drop table Customer;
 drop table Restaurant_Inventory;
@@ -8,7 +9,6 @@ drop table Waiters;
 drop table Menu_Items;
 drop table Restaurants;
 drop table Cuisine_Type;
-/*
 drop table active_invoices;
 drop table color_sample;
 drop table customers;
